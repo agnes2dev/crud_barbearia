@@ -113,7 +113,7 @@ Após a instalação, você pode começar a usar o `crud_barbearia` para gerenci
 
 ![Tela de cadastro de funcionários](protótipos/telas/cadastro_funcionario.jpg)
 
-- Painel iniciaç de funcionários 
+- Painel inicial de funcionários 
 
 ![Painel inicial de funcionários](protótipos/telas/painel_funcionarios.jpg)
 
