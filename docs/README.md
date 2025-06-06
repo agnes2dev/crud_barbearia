@@ -95,19 +95,38 @@ Após a instalação, você pode começar a usar o `crud_barbearia` para gerenci
 
 ---
 
+## Protótipos
+
+- Tela inicial do sistema
+
+![Tela inicial do sistema](protótipos/telas/home.jpg)
+
+- Tela de login
+
+![Tela de login](protótipos/telas/login.jpg)
+
+- Tela de cadastro de clientes
+
+![Tela de cadastro de clientes](protótipos/telas/cadastro_clientes.jpg)
+
+- Tela de cadastro de funcionários 
+
+![Tela de cadastro de funcionários](protótipos/telas/cadastro_funcionario.jpg)
+
+- Painel iniciaç de funcionários 
+
+![Painel inicial de funcionários](protótipos/telas/painel_funcionarios.jpg)
+
+- Painel de controle
+
+![Painel de controle](protótipos/telas/painel.jpg)
+
+- Tela exclusão permanente
+![Tela exclusão permanente da conta](protótipos/telas/excluir_conta.jpg)
+
+---
+
 <p align="center">
   Feito com 💈 para barbearias modernas!
 </p>
 
-
----
-
-## Protótipos
-
-![Tela inicial do sistema](protótipos/telas/home.jpg)
-![Tela de login](protótipos/telas/login.jpg)
-![Tela de cadastro de clientes](protótipos/telas/cadastro_clientes.jpg)
-![Tela de cadastro de funcionários](protótipos/telas/cadastro_funcionario.jpg)
-![Painel inicial de funcionários](protótipos/telas/painel_funcionarios.jpg)
-![Painel de controle](protótipos/telas/painel.jpg)
-![Tela exclusão permanente da conta](protótipos/telas/excluir_conta.jpg)
