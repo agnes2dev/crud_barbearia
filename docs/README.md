@@ -12,9 +12,13 @@
 
 ## 🛠️ Construído com as ferramentas e tecnologias:
 
-- PHP
-- Composer
-- Apache/Nginx
+<p align="center">
+  <img src="https://img.shields.io/badge/language-PHP-blue" />
+  <img src="https://img.shields.io/badge/database-SQLite-lightgrey" />
+  <img src="https://img.shields.io/badge/server-XAMPP-orange" />
+  <img src="https://img.shields.io/badge/frontend-HTML5-red" />
+  <img src="https://img.shields.io/badge/style-CSS3-blueviolet" />
+</p>
 
 ---
 
